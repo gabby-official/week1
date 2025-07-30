@@ -1,0 +1,22 @@
+git status --displays the state of the working directory. it shows files that are modified,staged or untracked
+
+git log --shows history of commits made in the repository
+
+git diff --compares file changes not yet staged 
+
+git branch --lists all branches
+
+git branch dev --creates a new branch named dev
+
+git checkout --switches between branches or restores a working tree file
+
+git merge --combines changes from one branch into another
+
+git pull --fetches and integrates changes from a remote repository to your current branch
+
+git push --Uploads your local branch commits to a remote repository
+
+git clone --creates a local copy of a remote repository
+
+
+
